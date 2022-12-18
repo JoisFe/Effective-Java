@@ -4,6 +4,17 @@
 해당 저장소는 이펙티브 자바 스터디 커뮤니티 입니다. 구성원들은 매주 각장의 아이템을 맡게 됩니다. 
 해당 아이템을 맡은 인원이 정리한 뒤 커뮤니티의 카테고리에 정리 내용을 게시하면 댓글을 통해 질의 응답을 합니다.   
 
+## 스터디 구성
+### 👩‍👩‍👧‍👦인원 : 8
+- [김도연](https://github.com/chikeem90)
+- [김진완](https://github.com/jinan159)
+- [김훈민](https://github.com/bunsung92)
+- [나미](https://github.com/gonami-gennnmja)
+- [민아영](https://github.com/coalong)
+- [유덕린](https://github.com/YuDeokRin)
+- [이제훈](https://github.com/CoRock)
+- [조재철](https://github.com/joisFe)
+
 ## 참고 링크 🔗
 
 - [스터디 운영 방식](https://github.com/Study-2-Effective-Java/Effective-Java/discussions/1)
